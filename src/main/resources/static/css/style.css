@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background: url("https://res.cloudinary.com/katgurl21/image/upload/v1569433029/SlimeApp/ball_ne2rbe.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.recipe{
+    background: url("https://res.cloudinary.com/katgurl21/image/upload/v1569433029/SlimeApp/lab_skws5b.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.other{
+    background: url("https://res.cloudinary.com/katgurl21/image/upload/v1569433029/SlimeApp/slime_wbxlfz.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.contact{
+    background: url("https://res.cloudinary.com/katgurl21/image/upload/v1569436717/SlimeApp/bounce_kcsuhh.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.jumbotron{
+    background: none;
+}
+h3 ul{
+    text-align: center;
+}
+form, h2.contact1{
+    color: blue;
+}
